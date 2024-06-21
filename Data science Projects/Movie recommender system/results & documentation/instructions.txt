@@ -1,0 +1,10 @@
+Instruction to run the Web app:
+
+1. ckeck if datasets are loaded in dataset directory.
+	1. movies.csv
+	2. ratings.csv
+	if not either is not present in the dataset folder, run the "dataset_loader.py" script
+
+2. run main.py script to process the data and initialize the backend server 
+
+3. use the client app "client/app.html" to enter the movie title to get your movie recommendations.

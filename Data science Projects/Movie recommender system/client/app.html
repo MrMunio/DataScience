@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movie Recommendations</title>
+    <link rel="stylesheet" href="app.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Movie Recommendations</h1>
+
+      <form id="movieForm">
+        <input
+          type="text"
+          id="title"
+          name="title"
+          placeholder="Enter your favorite movie title"
+          required
+        />
+        <input type="submit" value="Get Recommendations" />
+      </form>
+      <div class="results" id="results"></div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
+  </body>
+</html>
