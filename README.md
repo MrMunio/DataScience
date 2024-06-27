@@ -20,5 +20,5 @@ Feel free to explore the projects and provide any feedback or suggestions. I am 
 ## Get in Touch
 
 If you are interested in discussing data science, machine learning, or any of my projects, feel free to reach out. Let's connect and collaborate!
-www.linkedin.com/in/muni-sekhar-boligala
-sekharmuni003@gmail.com
+- www.linkedin.com/in/muni-sekhar-boligala
+- sekharmuni003@gmail.com
