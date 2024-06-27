@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I am an aspiring and passionate Data Scientist with over 2 years of experience in the field. My journey into data science is driven by a strong foundation in mathematics and a fascination with predictive modeling. I am skilled in SQL, Python, Microsoft Excel, and have a deep understanding of Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Convolutional Neural Networks (CNN).
+Hello! I am an aspiring and passionate Data Scientist with over 2+ years of experience in the field. My journey into data science is driven by a strong foundation in mathematics and a fascination with predictive modeling. I am skilled in SQL, Python, Microsoft Excel, and have a deep understanding of Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Convolutional Neural Networks (CNN).
 
 I continuously strive to learn and grow, exploring new concepts and technologies to enhance my skills. My hands-on approach and dedication to practical implementation have allowed me to complete several personal projects and deploy models through web applications.
 
