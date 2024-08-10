@@ -24,6 +24,6 @@ This web application allows users to upload and query documents in various forma
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/MrMunio/DataScience/tree/main/GEN%20AI%20projects/document-qa-chat-app.git
+   git clone https://github.com/MrMunio/DataScience/tree/main/GEN%20AI%20projects/document_qa_app.git
    cd document-qa-chat-app
    ```
