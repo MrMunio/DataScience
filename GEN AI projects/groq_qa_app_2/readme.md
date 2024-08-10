@@ -31,5 +31,5 @@ To get started with the Indian Budget QA Chatbot, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/indian-budget-qa-chatbot.git
+   git clone https://github.com/MrMunio/DataScience/tree/main/GEN%20AI%20projects/groq_qa_app_2.git
    cd indian-budget-qa-chatbot
