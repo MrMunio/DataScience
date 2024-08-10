@@ -9,7 +9,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain_community.vectorstores import FAISS
 import time
-# URL = "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/"
+
 # load api keys
 from dotenv import load_dotenv
 load_dotenv()
