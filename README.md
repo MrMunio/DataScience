@@ -1,3 +1,3 @@
 # DataScience <br>
 
-In this folder i will be adding all of my practice projecs related to data Science and GEN AI apps.
+In this folder, I will be adding all of my Personal projects related to data science and GEN AI apps.
