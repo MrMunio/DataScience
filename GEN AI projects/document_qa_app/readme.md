@@ -4,6 +4,8 @@
 
 This web application allows users to upload and query documents in various formats. It leverages the Langchain framework, GoogleGenerativeAIEmbeddings for accurate context retrieval, FAISS for vector storage, and GROQ Cloud for fast inference. The app supports DOCX, DOC, PDF, and TXT file uploads and can efficiently scan and load a 30-page file in under 7 seconds. The frontend is built with Streamlit for a smooth user experience.
 
+[!image](documentation/response 1.png)
+
 ## Features
 
 - **Document Upload**: Supports uploading PDF, DOCX, DOC, and TXT files.
